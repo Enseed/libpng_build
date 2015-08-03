@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+**/Debug/
+**/Debug Static/
+**/Release/
+**/Release Static/
+*.ipch
